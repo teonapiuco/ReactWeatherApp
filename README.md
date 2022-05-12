@@ -1,5 +1,7 @@
 # Weather App
 
+![W2](https://user-images.githubusercontent.com/101524289/168087636-bd27ac5b-7399-46a0-8742-13a2a2c099c5.jpg)
+
 ![WeatherAppPreview](https://user-images.githubusercontent.com/101524289/168085371-9a89503b-0144-4d88-b396-f910cc0d0f0a.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
